@@ -1,1 +1,2 @@
-# Battleships-Coded-in-C-
+# Battleships-Coded-in-C#
+# To run simply run Program.cs
